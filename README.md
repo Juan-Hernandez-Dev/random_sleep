@@ -1,3 +1,3 @@
 # random_sleep
 
-...In progress...
+Aiming to manipulate sleep by sensorial stimuli, currently a study in progress
